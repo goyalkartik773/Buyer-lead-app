@@ -600,7 +600,7 @@ export async function updateBuyer(
     }
 }
 
-export async function exportBuyersToCsv(searchParams: any) {
+export async function exportBuyersToCsv(searchParams: Record<string, string | string[] | undefined>) {
     const where: any = {};
     if (searchParams.city) {
         where.city = searchParams.city;
@@ -615,11 +615,27 @@ export async function exportBuyersToCsv(searchParams: any) {
         where.timeline = searchParams.timeline;
     }
     if (searchParams.search) {
-        const searchTerm = searchParams.search.toLowerCase();
+        // Ensure searchParams.search is a string before calling toLowerCase()
+        const searchTerm = Array.isArray(searchParams.search)
+            ? searchParams.search[0].toLowerCase() // Use the first item if it's an array
+            : searchParams.search.toLowerCase(); // Use the string directly
+
         where.OR = [
-            { fullName: { contains: searchTerm } },
-            { phone: { contains: searchTerm } },
-            { email: { contains: searchTerm } },
+            {
+                fullName: {
+                    contains: searchTerm,
+                },
+            },
+            {
+                phone: {
+                    contains: searchTerm,
+                },
+            },
+            {
+                email: {
+                    contains: searchTerm,
+                },
+            },
         ];
     }
 
