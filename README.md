@@ -20,6 +20,7 @@
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
+- [Screenshots](#-screenshots)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Installation](#-installation)
@@ -51,6 +52,52 @@
 - ✅ **Type-Safe** - Built with TypeScript for reliability
 - ✅ **Responsive** - Works perfectly on desktop, tablet, and mobile
 - ✅ **Dark Mode** - Full dark mode support
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+<h2><em>Modern, professional homepage with feature highlights and call-to-action</em></h2>
+<div align="center">
+  <img src="./screeenshots/dashboard1.png" alt="BuyerLead Homepage" width="800"/>
+</div>
+
+<div align="center">
+  <img src="./screeenshots/dashboard2.png" alt="BuyerLead Homepage" width="800"/>
+</div>
+
+<div align="center">
+  <img src="./screeenshots/dashboard3.png" alt="BuyerLead Homepage" width="800"/>
+</div>
+
+### 📊 Dashboard - Leads List
+<h2><em>Complete leads overview with search, filters, and status badges</em></h2>
+<div align="center">
+  <img src="./screeenshots/view.png" alt="Leads Dashboard" width="800"/>
+</div>
+
+### ➕ Create New Lead
+<h2><em>Comprehensive form with validation and professional styling</em></h2>
+<div align="center">
+  <img src="./screeenshots/new.png" alt="Create Lead Form" width="800"/>
+</div>
+
+### ✏️ Edit Lead & History
+<h2><em>Edit lead details with complete change history timeline</em></h2>
+<div align="center">
+  <img src="./screeenshots/edit1.png" alt="Edit Lead" width="800"/>
+</div>
+
+<div align="center">
+  <img src="./screeenshots/edit2.png" alt="Edit Lead" width="800"/>
+</div>
+
+### 📁 CSV Import
+<h2><em>Bulk import with drag-and-drop and validation error reporting</em></h2>
+<div align="center">
+  <img src="./screeenshots/import.png" alt="CSV Import" width="800"/>
+</div>
 
 ---
 
@@ -647,7 +694,7 @@ You are free to:
 
 - 🌐 Portfolio: [Your Portfolio URL]
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
+- 📧 Email: goyalkartik773@gmail.com
 - 🐙 GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
