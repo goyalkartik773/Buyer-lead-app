@@ -621,17 +621,34 @@ Contributions are welcome! Please follow these steps:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+### What This Means
+
+You are free to:
+- ✅ Use this project commercially
+- ✅ Modify and distribute
+- ✅ Use privately
+- ✅ Sublicense
+
+**Requirements:**
+- Include the original copyright notice
+- Include the license text
+
+**Limitations:**
+- No warranty provided
+- No liability
 
 ---
 
-## 👤 Contact
+## 👤 Author
 
 **Kartik Goel**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- 🌐 Portfolio: [Your Portfolio URL]
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: your.email@example.com
+- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
 
@@ -640,23 +657,49 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Next.js Team](https://nextjs.org/) - Amazing React framework
 - [Prisma Team](https://www.prisma.io/) - Excellent ORM
 - [Vercel](https://vercel.com/) - Hosting platform
-- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [Zod](https://zod.dev/) - TypeScript-first schema validation
 
 ---
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/buyerlead-app?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/buyerlead-app?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/buyerlead-app)
+![GitHub language count](https://img.shields.io/github/languages/count/yourusername/buyerlead-app)
+![GitHub top language](https://img.shields.io/github/languages/top/yourusername/buyerlead-app)
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/buyerlead-app)
 ![GitHub issues](https://img.shields.io/github/issues/yourusername/buyerlead-app)
-![GitHub license](https://img.shields.io/github/license/yourusername/buyerlead-app)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/buyerlead-app)
+![GitHub](https://img.shields.io/github/license/yourusername/buyerlead-app)
+
+---
+
+## 🌟 Show Your Support
+
+Give a ⭐️ if this project helped you!
+
+---
+
+## 📝 Changelog
+
+### Version 1.0.0 (2025-01-01)
+- ✅ Initial release
+- ✅ Complete CRUD operations
+- ✅ CSV import/export functionality
+- ✅ Advanced search and filtering
+- ✅ Complete audit trail
+- ✅ Professional UI with dark mode
+- ✅ Type-safe with TypeScript
+- ✅ Comprehensive documentation
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by Kartik Goel**
+**Built with ❤️ using Next.js, TypeScript, and Prisma**
 
-⭐ Star this repo if you find it helpful!
+**BuyerLead** - Professional Lead Management System
+
+[⬆ Back to Top](#-buyerlead---professional-lead-management-system)
 
 </div>
