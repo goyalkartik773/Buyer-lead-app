@@ -1,11 +1,13 @@
 <div align="center">
 
 <!-- Professional Banner -->
-<img src="./screeenshots/banner.jpeg" alt="BuyerLead Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
+
 
 </div>
 
 # 🏢 BuyerLead - Professional Lead Management System
+
+<img src="./screeenshots/banner.jpeg" alt="BuyerLead Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
 
 <div align="center">
 
