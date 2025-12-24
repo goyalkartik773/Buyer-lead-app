@@ -21,6 +21,12 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+## 🌐 Live Demo
+
+**🚀 [View Live Application](https://buyerlead-kartik.vercel.app)**
+
+Try it out! Create leads, test features, and explore the complete CRM system.
+
 [Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Usage](#-usage) • [API](#-api-documentation) • [Contributing](#-contributing)
 
 </div>
