@@ -230,7 +230,9 @@ export default function BuyersPage({ searchParams }: BuyersPageProps) {
                             <p className="text-gray-600 dark:text-gray-400 ml-16">Manage your leads efficiently</p>
                         </div>
                         <div className="flex space-x-4">
-                            <ExportButton />
+                            <Suspense fallback={<div className="w-32 h-12 bg-gray-200 dark:bg-gray-700 rounded-xl animate-pulse"></div>}>
+                                <ExportButton />
+                            </Suspense>
                             <Link
                                 href="/buyers/new"
                                 className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-purple-600 to-pink-600 text-white rounded-xl font-bold shadow-xl hover:shadow-2xl hover:shadow-purple-500/50 transition-all duration-300 hover:scale-105"
