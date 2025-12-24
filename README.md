@@ -1,3 +1,10 @@
+<div align="center">
+
+<!-- Professional Banner -->
+<img src="./screeenshots/banner.jpeg" alt="BuyerLead Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
+
+</div>
+
 # 🏢 BuyerLead - Professional Lead Management System
 
 <div align="center">
@@ -10,8 +17,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat&logo=prisma)](https://www.prisma.io/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [API](#-api-documentation) • [Contributing](#-contributing)
+[Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Usage](#-usage) • [API](#-api-documentation) • [Contributing](#-contributing)
 
 </div>
 
