@@ -10,6 +10,12 @@
 !.yarn/releases
 !.yarn/versions
 
+CODE_REVIEW.md
+DATABASE_IMPORT_FIX.md
+IMPORT_GUIDE.md
+QUICK_GITHUB_COMMANDS.md
+GITHUB_UPLOAD_GUIDE.md
+
 # testing
 /coverage
 
