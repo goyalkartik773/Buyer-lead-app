@@ -171,9 +171,14 @@ Try it out! Create leads, test features, and explore the complete CRM system.
 ### Backend
 - **[Next.js Server Actions](https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations)** - Server-side logic
 - **[Prisma 6](https://www.prisma.io/)** - Type-safe ORM
-- **[SQLite](https://www.sqlite.org/)** - Database (development)
+- **[PostgreSQL](https://www.postgresql.org/)** - Production database
+- **[Neon](https://neon.tech/)** - Serverless PostgreSQL hosting
 - **[Zod](https://zod.dev/)** - Schema validation
 - **[csv-parser](https://www.npmjs.com/package/csv-parser)** - CSV processing
+
+### Deployment & Hosting
+- **[Vercel](https://vercel.com/)** - Frontend hosting and deployment
+- **[Neon](https://neon.tech/)** - PostgreSQL database hosting (512 MB free tier)
 
 ### Development Tools
 - **[ESLint](https://eslint.org/)** - Code linting
@@ -580,6 +585,12 @@ npx prisma migrate reset
 ---
 
 ## 🌐 Deployment
+
+**Live Application:** 🚀 [https://buyerlead-kartik.vercel.app](https://buyerlead-kartik.vercel.app)
+
+**Deployed using:**
+- **Frontend:** [Vercel](https://vercel.com/) - Automatic deployments from GitHub
+- **Database:** [Neon PostgreSQL](https://neon.tech/) - Serverless PostgreSQL (512 MB free tier)
 
 ### Vercel (Recommended)
 
